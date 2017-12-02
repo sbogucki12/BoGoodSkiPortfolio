@@ -68,3 +68,9 @@ D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\Microsoft.AI
 D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\obj\Release\Portfolio.csproj.CoreCompileInputs.cache
 D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\obj\Release\Portfolio.dll
 D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\obj\Release\Portfolio.pdb
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\MontereyFLF-Bold.ttf
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\MontereyFLF-BoldItalic.ttf
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\MontereyFLF-Italic.ttf
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\MontereyFLF.ttf
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\MontereyMediumFLF.ttf
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\obj\Release\Portfolio.csprojResolveAssemblyReference.cache

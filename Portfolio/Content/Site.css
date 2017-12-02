@@ -1,7 +1,65 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background-color: lightgray;
+    background-color: whitesmoke;
+}
+/* The blue green gradient in the header on the main page*/
+#introText {
+    background: lightblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #77C9D4, #57BC90); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #77C9D4, #57BC90); /* Standard syntax */
+    border-style: solid;
+    border-width: thin;
+    border-color: #A5A5AF;
+    font-family: 'montereyFLF';
+}
+
+@font-face {
+    font-family: 'montereyFLF';
+    src: url('..\fonts/MontereyFLF.ttf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bakery';
+    src: url('..\fonts/bakery.ttf');
+    font-style: normal;
+}
+
+
+/* Styling behind the text on the main page just under the primary image */
+#headerImage {
+    background-color: #57BC90;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    font-family: 'bakery';
+}
+
+.linkBlock {
+    background: lightgray; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #015249, #A5A5AF); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #015249, #A5A5AF); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #015249, #A5A5AF); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #015249, #A5A5AF); /* Standard syntax */
+    height: 100px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+/* Override the default navbar background color*/
+.navbar-inverse {
+    background-color: white !important;
+}
+
+/* Styling for box behind primary image on main page*/
+#imageBox {
+    background-color: #015249;
+    border-style: solid;
+    border-width: thick;
+    border-color: #A5A5AF;
 }
 
 /* Set padding to keep content from hitting the edges */
