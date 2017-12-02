@@ -7,7 +7,7 @@ This ~~is~~ *will be* my portfolio.
 
 ## Screenshot
 
-![Screenshot](ReadMeScreenshot.png)
+![Imgur](https://i.imgur.com/FQJYlnn.png)
 
 ## Technologies
 
