@@ -74,3 +74,4 @@ D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\Monter
 D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\MontereyFLF.ttf
 D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\MontereyMediumFLF.ttf
 D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\obj\Release\Portfolio.csprojResolveAssemblyReference.cache
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\bakery.ttf

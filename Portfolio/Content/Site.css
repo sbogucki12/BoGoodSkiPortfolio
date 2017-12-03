@@ -16,6 +16,35 @@
     font-family: 'montereyFLF';
 }
 
+/*  Styling behind the heading on the source code page */
+#sourceHeading {
+    background-color: #77c9d4;
+    margin-top: 10px;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    width: 355px;
+    font-family: "Trebuchet MS";
+}
+
+/*  Styling behind the pic of the souce code on the source code page */
+#sourcePic {
+    background-color: #015249;
+    margin-top: 10px;
+    width: auto;
+}
+
+/*  Styling behind words on source code page */
+#sourceWords {
+    background: lightblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #77C9D4, #57BC90); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #77C9D4, #57BC90); /* Standard syntax */
+    margin-top: 10px;
+    width: 355px;
+}
+
 @font-face {
     font-family: 'montereyFLF';
     src: url('..\fonts/MontereyFLF.ttf');

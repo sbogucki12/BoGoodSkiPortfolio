@@ -19,13 +19,15 @@ This ~~is~~ *will be* my portfolio.
 + CSHTML
 + CSS Bootstrap
 + Azure 
-+ Visual Studi0
++ Visual Studio
 
 ## Timeline
 
-12/1/2017 pm: First Commit.
-12/2/2017 am: Updated Readme.
-12/2/2017 am, part 2: Updated the styling a bit.
++ 12/1/2017 pm: First Commit.
++ 12/2/2017 am: Updated Readme.
++ 12/2/2017 am, part 2: Updated the styling a bit.
++ 12/2/2017 pm: Added the source page. 
+
 
 ## Credit
 
