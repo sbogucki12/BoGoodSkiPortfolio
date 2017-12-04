@@ -27,6 +27,7 @@ This ~~is~~ *will be* my portfolio.
 + 12/2/2017 am: Updated Readme.
 + 12/2/2017 am, part 2: Updated the styling a bit.
 + 12/2/2017 pm: Added the source page. 
++ 12/4/2017 am: Fixed the custom fonts issue. Custom fonts load on all test machines now. 
 
 
 ## Credit

@@ -47,13 +47,13 @@
 
 @font-face {
     font-family: 'montereyFLF';
-    src: url('..\fonts/MontereyFLF.ttf');
+    src: url('/fonts/MontereyFLF.ttf');
     font-style: normal;
 }
 
 @font-face {
     font-family: 'bakery';
-    src: url('..\fonts/bakery.ttf');
+    src: url('/fonts/bakery.ttf');
     font-style: normal;
 }
 
