@@ -13,6 +13,10 @@ This ~~is~~ *will be* my portfolio.
 + Day Two:
 ![Imgur](https://i.imgur.com/Tqva26I.png)
 
++ Day Three: 
+![Imgur](https://i.imgur.com/YdTQxsD.jpg)
+![Imgur](https://i.imgur.com/3hfcGje.jpg)
+
 ## Technologies
 
 + .NET (MVC)
@@ -28,6 +32,7 @@ This ~~is~~ *will be* my portfolio.
 + 12/2/2017 am, part 2: Updated the styling a bit.
 + 12/2/2017 pm: Added the source page. 
 + 12/4/2017 am: Fixed the custom fonts issue. Custom fonts load on all test machines now. 
++ 12/4/2017 am, part 2: Added an "Algorithms" page. 
 
 
 ## Credit

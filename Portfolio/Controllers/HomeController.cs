@@ -26,5 +26,12 @@ namespace Portfolio.Controllers
 
             return View();
         }
+
+        public ActionResult Algorithms()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
