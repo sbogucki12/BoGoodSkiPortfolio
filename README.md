@@ -17,11 +17,17 @@ This ~~is~~ *will be* my portfolio.
 ![Imgur](https://i.imgur.com/YdTQxsD.jpg)
 ![Imgur](https://i.imgur.com/3hfcGje.jpg)
 
++ Day Three (cont.):
+![Imgur](https://i.imgur.com/bDzXCzg.jpg)
+![Imgur](https://i.imgur.com/5GmEeV7.jpg)
+
 ## Technologies
 
 + .NET (MVC)
 + CSHTML
 + CSS Bootstrap
++ JavaScript
++ jQuery
 + Azure 
 + Visual Studio
 
@@ -33,6 +39,7 @@ This ~~is~~ *will be* my portfolio.
 + 12/2/2017 pm: Added the source page. 
 + 12/4/2017 am: Fixed the custom fonts issue. Custom fonts load on all test machines now. 
 + 12/4/2017 am, part 2: Added an "Algorithms" page. 
++ 12/4/2017 pm: Added a "jQuery" page.
 
 
 ## Credit

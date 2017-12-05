@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewBag.Title = "jquery";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12"></div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <p></p>
+    </div>
+    <div class="col-md-4" id="jqueryHeader">
+        <p><i>fun with</i></p>
+        <h1>jQuery.</h1>
+    </div>
+    <div class="col-md-4">
+        <p></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12"></div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <p></p>
+    </div>
+    <div class="col-md-4" id="jqueryText">
+        <h4>LeBron James is the best player in the NBA. Click LeBron to discover the <b><i>next</i></b> LeBron!</h4>
+    </div>
+    <div class="col-md-4">
+        <p></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12"><p></p></div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <p></p>
+    </div>
+    <div class="col-md-4" id="infoToggler">
+        <img src="https://espnfivethirtyeight.files.wordpress.com/2017/05/lebron11.jpg?w=575&quality=90&strip=info" width="325" height="350" />
+        <img src="http://cdn.phillymag.com/wp-content/uploads/2016/09/ben-simmons-2016090302.jpg" width="325" height="350" style="display:none"/>     
+    </div>
+    <div class="col-md-4">
+        <p></p>
+    </div>
+</div>
+
+<script>
+    $("#infoToggler img").click(function () {
+        $('img:first').toggle();
+        $('img:last').toggle();
+    });
+</script>
+

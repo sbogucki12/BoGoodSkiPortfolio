@@ -3,7 +3,7 @@
     padding-bottom: 20px;
     background-color: whitesmoke;
 }
-/* The blue green gradient in the header on the main page*/
+/*  The blue green gradient in the header on the main page*/
 #introText {
     background: lightblue; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left top, #77C9D4, #57BC90); /* For Safari 5.1 to 6.0 */
@@ -63,7 +63,7 @@
     font-style: normal;
 }
 
-/* Styling behind the text on the main page just under the primary image */
+/*  Styling behind the text on the main page just under the primary image */
 #headerImage {
     background-color: #57BC90;
     border-style: solid;
@@ -87,7 +87,7 @@
     width: auto;
 }
 
-/* Styling for blank link boxes main page */
+/*  Styling for blank link boxes main page */
 .linkBlockBlank {
     background: lightgray; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left top, #015249, #A5A5AF); /* For Safari 5.1 to 6.0 */
@@ -100,14 +100,15 @@
     font-family: 'veteran-typewriter';
     padding-top: 15px;
     width: 185px;
+    text-align: center;
 }
 
-/* Override the default navbar background color*/
+/*  Override the default navbar background color*/
 .navbar-inverse {
     background-color: white !important;
 }
 
-/* Styling for box behind primary image on main page*/
+/*  Styling for box behind primary image on main page*/
 #imageBox {
     background-color: #015249;
     border-style: solid;
@@ -115,13 +116,13 @@
     border-color: #A5A5AF;
 }
 
-/* Set padding to keep content from hitting the edges */
+/*  Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
 }
 
-/* Styling for the header on the Algorithm page */
+/*  Styling for the header on the Algorithm page */
 #algoHeader {
     background-color: #77c9d4;
     margin-top: 10px;
@@ -131,7 +132,7 @@
     font-family: "Trebuchet MS";
 }
 
-/* Styling for text under the header on the Algorithms page */
+/*  Styling for text under the header on the Algorithms page */
 #algoText {
     background: lightblue; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left top, #77C9D4, #57BC90); /* For Safari 5.1 to 6.0 */
@@ -147,6 +148,30 @@
     background-color: #a5a5af;
     padding-top: 5px;
 }
+
+/*  Styling on the header on the jQuery page */
+#jqueryHeader {
+    background-color: #77c9d4;
+    margin-top: 10px;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    font-family: "Trebuchet MS";
+    width: 350px; 
+}
+
+/*  Styling on the jQuery textbox under the header */
+#jqueryText {
+    background: lightblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #77C9D4, #57BC90); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #77C9D4, #57BC90); /* Standard syntax */
+    margin-top: 10px;
+    font-family: 'montereyFLF';
+    width: 350px;
+}
+
 
 /* Override the default bootstrap behavior where horizontal description lists 
    will truncate terms that are too long to fit in the left column 

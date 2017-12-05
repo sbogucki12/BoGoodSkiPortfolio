@@ -29,7 +29,14 @@ namespace Portfolio.Controllers
 
         public ActionResult Algorithms()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Algorithms.";
+
+            return View();
+        }
+
+        public ActionResult Jquery()
+        {
+            ViewBag.Message = "Fun with jQuery.";
 
             return View();
         }
