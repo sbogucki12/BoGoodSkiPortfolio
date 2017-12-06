@@ -76,3 +76,21 @@ D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\Monter
 D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\MontereyMediumFLF.ttf
 D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\bakery.ttf
 D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\fonts\veteran typewriter.ttf
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\Jeffijoe.HttpClientGoodies.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Net.Http.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Net.Http.Extensions.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Net.Http.Formatting.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Net.Http.Primitives.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Security.Cryptography.Algorithms.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Security.Cryptography.Encoding.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Security.Cryptography.Primitives.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Security.Cryptography.X509Certificates.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Web.Http.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Web.Http.WebHost.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\Jeffijoe.HttpClientGoodies.pdb
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Net.Http.Extensions.xml
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Net.Http.Formatting.xml
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Net.Http.Primitives.xml
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Web.Http.xml
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\bin\System.Web.Http.WebHost.xml
+D:\sbogu\Documents\Repos\Visual Studio 2017\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.App.config

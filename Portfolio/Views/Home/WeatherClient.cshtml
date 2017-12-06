@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Steve's Weather";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-4">
+    </div>
+    <div class="col-md-4" id="weatherHeader">
+        <h1>Weather.</h1>
+    </div>
+    <div class="col-md-4">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+    </div>
+    <div class="col-md-4" id="weatherText">
+        <h1>Current Conditions in Long Beach, CA:</h1>
+        <h4>Actual measuring location:</h4> 
+        <h3><span data-bind="text:current_observation.observation_location.full"></span></h3> 
+    </div>
+    <div class="col-md-4">
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+    </div>
+    <div class="col-md-4" id="weatherResults">
+        <p>The temperature is actually <span data-bind="text:current_observation.temp_f"></span>&deg; F.</p>
+        <p>The temperature feels like <span data-bind="text:current_observation.feelslike_f"></span>&deg; F.</p>
+        <p>The conditions are <span data-bind="text:current_observation.weather"></span>.</p>
+        <p>The wind is gusting at <span data-bind="text:current_observation.wind_gust_mph"></span> MPH.</p>
+        <p>Today, there has been <span data-bind="text:current_observation.precip_today_in"></span> inches of precipitation.</p>
+        <p><small><i><span data-bind="text:current_observation.observation_time"></span></i></small></p>
+    </div>
+    <div class="col-md-4">
+    </div>
+</div>
+
+<script>
+    var weather = Object();
+    $(document).ready(function () { 
+        $.get("@Url.Action("GetWeather","Home")", function(response) {
+            //response
+            console.log(response);
+            weather = ko.mapping.fromJS(response);  //populates the weather object
+            ko.applyBindings(weather);
+        });
+    });
+</script>

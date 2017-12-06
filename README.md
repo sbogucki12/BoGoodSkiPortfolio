@@ -21,6 +21,10 @@ This ~~is~~ *will be* my portfolio.
 ![Imgur](https://i.imgur.com/bDzXCzg.jpg)
 ![Imgur](https://i.imgur.com/5GmEeV7.jpg)
 
++ Day Four:
+![Imgur](https://i.imgur.com/EPIO6q2.jpg)
+![Imgur](https://i.imgur.com/25vGPTZ.jpg)
+
 ## Technologies
 
 + .NET (MVC)
@@ -30,6 +34,9 @@ This ~~is~~ *will be* my portfolio.
 + jQuery
 + Azure 
 + Visual Studio
++ Knockout.js
++ HTTPClient
++ 3rd Party Web API (Weather Underground)
 
 ## Timeline
 
@@ -40,6 +47,7 @@ This ~~is~~ *will be* my portfolio.
 + 12/4/2017 am: Fixed the custom fonts issue. Custom fonts load on all test machines now. 
 + 12/4/2017 am, part 2: Added an "Algorithms" page. 
 + 12/4/2017 pm: Added a "jQuery" page.
++ 12/5/2017 pm: Added a "my Weather" page.
 
 
 ## Credit

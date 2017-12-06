@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Portfolio.Models;
 
 namespace Portfolio.Controllers
 {
@@ -39,6 +40,26 @@ namespace Portfolio.Controllers
             ViewBag.Message = "Fun with jQuery.";
 
             return View();
+        }
+
+        public ActionResult WeatherJs()
+        {
+            ViewBag.Message = "Get Weather (via (fontend) Web API).";
+
+            return View();
+        }
+
+        public ActionResult WeatherClient()
+        {
+            ViewBag.Message = "Get Weather (via (backend) Web API).";
+
+            return View();
+        }
+
+        public JsonResult GetWeather()
+        {
+            Weather weath = new Weather();
+            return Json(weath.getWeatherForecast(), JsonRequestBehavior.AllowGet);
         }
     }
 }

@@ -84,24 +84,25 @@
     margin-top: 5px;
     font-family: 'veteran-typewriter';
     padding-top: 15px;
-    width: auto;
+    width: 190px;
+    text-align: center;
 }
 
 /*  Styling for blank link boxes main page */
-.linkBlockBlank {
+/*.linkBlockBlank {
     background: lightgray; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(left top, #015249, #A5A5AF); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(bottom right, #015249, #A5A5AF); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(bottom right, #015249, #A5A5AF); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to bottom right, #015249, #A5A5AF); /* Standard syntax */
-    height: 100px;
+    /*background: -webkit-linear-gradient(left top, #015249, #A5A5AF); /* For Safari 5.1 to 6.0 */
+    /*background: -o-linear-gradient(bottom right, #015249, #A5A5AF); /* For Opera 11.1 to 12.0 */
+    /*background: -moz-linear-gradient(bottom right, #015249, #A5A5AF); /* For Firefox 3.6 to 15 */
+    /*  background: linear-gradient(to bottom right, #015249, #A5A5AF); /* Standard syntax */
+    /*  height: 100px;
     margin-right: 5px;
     margin-top: 5px;
     font-family: 'veteran-typewriter';
     padding-top: 15px;
-    width: 185px;
+    width: 190px;
     text-align: center;
-}
+}*/
 
 /*  Override the default navbar background color*/
 .navbar-inverse {
@@ -172,6 +173,34 @@
     width: 350px;
 }
 
+/*  Styling behind header on Weather page */
+
+#weatherHeader {
+    background-color: #A5A5AF;
+    margin-top: 10px;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    width: 400px;
+    font-family: "Trebuchet MS";
+    margin-bottom: 10px;
+}
+
+#weatherText {
+    background-color: #57bc90;
+    font-family: 'montereyFLF';
+    width: 450px;
+    margin-bottom: 10px;
+}
+
+#weatherResults {
+    background: lightblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #77C9D4, #57BC90); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #77C9D4, #57BC90); /* Standard syntax */
+    width: 450px;
+}
 
 /* Override the default bootstrap behavior where horizontal description lists 
    will truncate terms that are too long to fit in the left column 
