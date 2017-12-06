@@ -12,7 +12,7 @@ namespace Portfolio.Models
         public Object getWeatherForecast()
         {
             string url =
-                "http://api.wunderground.com/api/cf31b2cf1c3e985d/conditions/q/CA/Long_Beach.json";
+                "http://api.wunderground.com/api/KEY/conditions/q/CA/Long_Beach.json";
                 //synchronous client
             var client = new WebClient();
             var content = client.DownloadString(url);
