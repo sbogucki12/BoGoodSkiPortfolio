@@ -175,7 +175,6 @@
 }
 
 /*  Styling behind header on Weather page */
-
 #weatherHeader {
     background-color: #A5A5AF;
     margin-top: 10px;
@@ -187,6 +186,7 @@
     margin-bottom: 10px;
 }
 
+/*  Styling behind the text on the weather page, above the actual weather data*/
 #weatherText {
     background-color: #57bc90;
     font-family: 'montereyFLF';
@@ -194,6 +194,7 @@
     margin-bottom: 10px;
 }
 
+/*  Styling behind the weather data */
 #weatherResults {
     background: lightblue; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left top, #77C9D4, #57BC90); /* For Safari 5.1 to 6.0 */
@@ -201,6 +202,22 @@
     background: -moz-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Firefox 3.6 to 15 */
     background: linear-gradient(to bottom right, #77C9D4, #57BC90); /* Standard syntax */
     width: 450px;
+}
+
+/*  Styling behind Algorithm Importance discussion */
+#algoDiscussion {
+    background: lightgray !important; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, lightgray, #77C9D4) !important; /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, lightgray, #77C9D4) !important; /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, lightgray, #77C9D4) !important; /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, lightgray, #77C9D4) !important; /* Standard syntax */
+    width: 770px !important;
+    margin-top: 10px !important;
+}
+
+/*  Styling for some hidden rows that help center the Algorithm Discussion block*/
+#algoDiscBlank {
+    width: 200px; 
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 

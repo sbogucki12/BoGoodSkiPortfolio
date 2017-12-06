@@ -28,6 +28,9 @@ This ~~is~~ *will be* my portfolio.
 + Day Four (cont.):
 ![Imgur](https://i.imgur.com/waNDmm4.jpg)
 
++ Day Five:
+![Imgur](https://i.imgur.com/nL8J1dd.jpg)
+
 
 ## Technologies
 
@@ -53,6 +56,7 @@ This ~~is~~ *will be* my portfolio.
 + 12/4/2017 pm: Added a "jQuery" page.
 + 12/5/2017 pm: Added a "my Weather" page.
 + 12/5/2017 pm, part 2: Added another algorithm to the Algorithm page. 
++ 12/6/2017 am: Added discussion about algorithms to Algorithms page. 
 
 
 ## Credit
