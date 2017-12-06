@@ -239,6 +239,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Images\Algorithms\Bubblesort.JPG" />
+    <Content Include="Content\Images\Algorithms\mergeSort.JPG" />
     <Content Include="Content\Images\SourceCodeImage.JPG" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />

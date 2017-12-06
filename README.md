@@ -25,6 +25,10 @@ This ~~is~~ *will be* my portfolio.
 ![Imgur](https://i.imgur.com/EPIO6q2.jpg)
 ![Imgur](https://i.imgur.com/25vGPTZ.jpg)
 
++ Day Four (cont.):
+![Imgur](https://i.imgur.com/waNDmm4.jpg)
+
+
 ## Technologies
 
 + .NET (MVC)
@@ -48,6 +52,7 @@ This ~~is~~ *will be* my portfolio.
 + 12/4/2017 am, part 2: Added an "Algorithms" page. 
 + 12/4/2017 pm: Added a "jQuery" page.
 + 12/5/2017 pm: Added a "my Weather" page.
++ 12/5/2017 pm, part 2: Added another algorithm to the Algorithm page. 
 
 
 ## Credit
