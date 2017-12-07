@@ -35,6 +35,9 @@ This ~~is~~ *will be* my portfolio.
 ![Imgur](https://i.imgur.com/euOVyn6.jpg)
 ![Imgur](https://i.imgur.com/4aykl2F.jpg)
 
++ Day Six: 
+![Imgur](https://i.imgur.com/boOdKjz.jpg)
+
 
 ## Technologies
 
@@ -62,6 +65,7 @@ This ~~is~~ *will be* my portfolio.
 + 12/5/2017 pm, part 2: Added another algorithm to the Algorithm page. 
 + 12/6/2017 am: Added discussion about algorithms to Algorithms page. 
 + 12/6/2017 pm: Added the "About Steve" page.
++ 12/7/2017 am: Added another algorithm to Algorithm page. 
 
 
 ## Credit

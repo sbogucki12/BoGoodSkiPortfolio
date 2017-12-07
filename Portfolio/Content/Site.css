@@ -195,13 +195,6 @@
     font-family: 'montereyFLF';
 }
 
-/*  Styling for the boxes behind each Algorithm thumbnail on the Algorithms page */
-#algoBox {
-    background-color: #a5a5af;
-    padding-top: 5px;
-    margin-right: 5px;
-}
-
 /*  Styling on the header on the jQuery page */
 #jqueryHeader {
     background-color: #77c9d4;
@@ -211,6 +204,44 @@
     border-color: black;
     font-family: "Trebuchet MS";
     width: 350px; 
+}
+
+/*  Styling behind invisible blocks on first row of algorithms
+    on algorithm page. Helps with centering
+*/
+.algoBlankFirstRow {
+    width: 100px;
+}
+
+/*  Styling behind the images in the first row of algorithms 
+    on the algorithm page
+*/
+.algoFirstRow {
+    width: 350px;
+    background-color: lightgray;
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    height: 430px;
+}
+
+/*  Styling behind invisible blocks on second row of images 
+    on algorithm page. Helps with formatting
+*/
+.algoBlankSecondRow {
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/*  Styling behind text above second row of algorithms on 
+    algorithm page.
+*/
+.algoSecondRow {
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: lightgray;
 }
 
 /*  Styling on the jQuery textbox under the header */
@@ -268,7 +299,21 @@
 
 /*  Styling for some hidden rows that help center the Algorithm Discussion block*/
 #algoDiscBlank {
-    width: 200px; 
+    width: 180px; 
+}
+
+/*  Blank boxes that help arrange the second row of algorithm images */
+.algoSecondRowImagesBlank {
+    width: 200px;
+}
+
+/*  Arranging second row of algorithm images */
+.algoSecondRowImages {
+    width: 350px;
+    margin-right: 5px;
+    background-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
@@ -286,3 +331,6 @@ select,
 textarea {
     max-width: 280px;
 }
+
+
+
