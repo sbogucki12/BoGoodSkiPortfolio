@@ -14,6 +14,10 @@
     border-width: thin;
     border-color: #A5A5AF;
     font-family: 'montereyFLF';
+    font-size: 16px;
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /*  Styling behind the heading on the source code page */
@@ -103,6 +107,53 @@
     width: 190px;
     text-align: center;
 }*/
+
+/*  Styling on the heading for the About Steve page */
+#bioHeading {
+    background: #015249; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #015249, lightgray); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #015249, lightgray); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #015249, lightgray); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #015249, lightgray); /* Standard syntax */
+    font-family: "Trebuchet MS" !important;
+    color: black;
+    width: 400px;
+    margin-top: 10px;
+}
+
+/*  Styling behind the long bio text on the About Steve page */
+#bioText {
+    background: lightblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #77C9D4, #57BC90); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #77C9D4, #57BC90); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #77C9D4, #57BC90); /* Standard syntax */
+    width: 600px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-family: font-family: 'Sumana';
+    font-size: 18px;
+}
+
+/*  Styling behind the link logos on the About Steve page */
+#bioLinks {
+    background: lightcoral; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, lightcoral, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, lightcoral, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, lightcoral, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, lightcoral, white); /* Standard syntax */
+    border-style: solid;
+    border-width: thin;
+    border-color: #015249;
+    width: auto;
+    margin-top: 10px;
+}
+
+/*  Styling for invisible blocks on the About Steve page that help formatting */
+.bioBlocks {
+    width: 200px;
+}
 
 /*  Override the default navbar background color*/
 .navbar-inverse {
@@ -219,6 +270,8 @@
 #algoDiscBlank {
     width: 200px; 
 }
+
+
 
 /* Override the default bootstrap behavior where horizontal description lists 
    will truncate terms that are too long to fit in the left column 

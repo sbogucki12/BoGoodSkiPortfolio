@@ -240,6 +240,9 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Images\Algorithms\Bubblesort.JPG" />
     <Content Include="Content\Images\Algorithms\mergeSort.JPG" />
+    <Content Include="Content\Images\ContactPage\GitHub-Mark-Light-64px.png" />
+    <Content Include="Content\Images\ContactPage\Gmail-Logo.png" />
+    <Content Include="Content\Images\ContactPage\instagram_PNG11.png" />
     <Content Include="Content\Images\SourceCodeImage.JPG" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
