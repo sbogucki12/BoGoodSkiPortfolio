@@ -38,6 +38,9 @@ This ~~is~~ *will be* my portfolio.
 + Day Six: 
 ![Imgur](https://i.imgur.com/boOdKjz.jpg)
 
++ Day Seven: 
+![Imgur](https://i.imgur.com/gvcpJUm.jpg)
+
 
 ## Technologies
 
@@ -51,6 +54,7 @@ This ~~is~~ *will be* my portfolio.
 + Knockout.js
 + HTTPClient
 + 3rd Party Web API (Weather Underground)
++ Angular (5)
 
 ## Timeline
 
@@ -66,6 +70,7 @@ This ~~is~~ *will be* my portfolio.
 + 12/6/2017 am: Added discussion about algorithms to Algorithms page. 
 + 12/6/2017 pm: Added the "About Steve" page.
 + 12/7/2017 am: Added another algorithm to Algorithm page. 
++ 12/12/2017 am: Added link to my Angular test page. 
 
 
 ## Credit
