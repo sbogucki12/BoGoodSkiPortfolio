@@ -41,6 +41,9 @@ This ~~is~~ *will be* my portfolio.
 + Day Seven: 
 ![Imgur](https://i.imgur.com/gvcpJUm.jpg)
 
++ Day Eight:
+![Imgur](https://i.imgur.com/eDUm0ta.jpg)
+
 
 ## Technologies
 
@@ -71,6 +74,7 @@ This ~~is~~ *will be* my portfolio.
 + 12/6/2017 pm: Added the "About Steve" page.
 + 12/7/2017 am: Added another algorithm to Algorithm page. 
 + 12/12/2017 am: Added link to my Angular test page. 
++ 12/26/2017 am: Added link to my "metaBlog".
 
 
 ## Credit

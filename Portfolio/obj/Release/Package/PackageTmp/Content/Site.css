@@ -97,6 +97,24 @@
     width: 290px;
 }
 
+/* Styling for the link to the metaBlog */
+#metaBlock {
+    width: 595px;
+    background: lightgray; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, #015249, #A5A5AF); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, #015249, #A5A5AF); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, #015249, #A5A5AF); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #015249, #A5A5AF); /* Standard syntax */
+    margin-top: 10px;
+    padding-left: 225px;
+    font-family: 'veteran-typewriter';
+    padding-bottom: 10px;
+}
+
+#metaBlockInvisi {
+    width: 295px;
+}
+
 /*  Styling for blank link boxes main page */
 /*.linkBlockBlank {
     background: lightgray; /* For browsers that do not support gradients */
@@ -136,7 +154,7 @@
     margin-top: 10px;
     padding-top: 10px;
     padding-bottom: 5px;
-    font-family: font-family: 'Sumana';
+    font-family: 'Sumana';
     font-size: 18px;
 }
 
@@ -335,6 +353,3 @@ select,
 textarea {
     max-width: 280px;
 }
-
-
-
